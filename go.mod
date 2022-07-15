@@ -1,4 +1,4 @@
-module github.com/treblle/treblle-go-gin
+module github.com/gipsh/treblle-go-gin
 
 go 1.14
 
